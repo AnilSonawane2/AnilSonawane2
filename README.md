@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Developer passionate about Coding</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></
 
-- 🔭 I’m currently working on **AI Resume Builder Project**
+- 🔭 I’m currently working on **MERN Stack Project**
 - 🌱 I’m currently learning **Spring Boot**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me **anil.sonawane2003@gmail.com**
